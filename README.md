@@ -13,7 +13,7 @@ This project was built collaboratively with [@AbhinavHarsh3215](https://github.c
 ## 🛠️ Tech Stack
 
 - **Backend**: Node.js, Express.js
-- **Frontend**: EJS (Embedded JavaScript Templates), HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS, JavaScript
 - **Database**: MongoDB
 - **Version Control**: Git & GitHub
 
