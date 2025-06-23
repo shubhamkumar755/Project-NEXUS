@@ -37,9 +37,3 @@ I developed the **frontend** of the application using HTML, CSS, and JavaScript.
 - Implementing responsive design for mobile support
 - Collaborating closely with the backend developer to connect frontend views to backend logic
 
-
-```bash
-git clone https://github.com/your-username/nexus.git
-cd nexus
-npm install
-npm start
